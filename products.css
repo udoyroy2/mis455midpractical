@@ -20,7 +20,7 @@ header{
     color: #fff4e1;
     text-align: center;
     padding: 20px;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    box-shadow: 0 3px 10px rgba(45, 129, 132, 0.46);
 }
 
 header h1{
@@ -93,7 +93,7 @@ section h2{
     padding: 20px;
     text-align: center;
     border-radius: 15px;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+    box-shadow: 0 5px 15px rgba(247, 239, 206, 0.742);
     transition: 0.3s;
 }
 

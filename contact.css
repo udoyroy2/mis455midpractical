@@ -59,7 +59,7 @@ section{
     padding: 40px;
     border-radius: 15px;
     text-align: center;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+    box-shadow: 0 5px 15px rgba(55, 121, 103, 0.623);
 }
 
 section h2{
@@ -94,8 +94,8 @@ section p strong{
 
 
 button{
-    background-color: #fff4e1;
-    color: #004852;
+    background-color: #004852;
+    color: #fff4e1;
     border: none;
     padding: 12px 25px;
     border-radius: 30px;
@@ -105,8 +105,8 @@ button{
 }
 
 button:hover{
-    background-color: #004852;
-    color: #fff4e1;
+    background-color: #fff4e1;
+    color: #004852;
     transform: scale(1.05);
 }
 footer{

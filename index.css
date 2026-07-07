@@ -8,7 +8,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #fff4e1;
-    color: #333;
+    color: #004852;
     line-height: 1.6;
 }
 
@@ -17,7 +17,7 @@ header{
     color: #fff4e1;
     text-align: center;
     padding: 20px;
-    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+    box-shadow: 0 3px 10px rgba(45, 129, 132, 0.46);
 }
 
 header h1{
@@ -51,7 +51,7 @@ nav ul li a:hover{
     height: 600px;
 
     background:
-    linear-gradient(rgba(0,0,0,0.55),
+    linear-gradient(rgba(45, 129, 132, 0.46),
     rgba(0,0,0,0.55)),
     url("backgroud.jpg");
 
@@ -122,7 +122,7 @@ button:hover{
 
     border-radius: 15px;
 
-    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+    box-shadow: 0 5px 15px rgba(45, 129, 132, 0.46);
 
     transition: 0.3s;
 }
